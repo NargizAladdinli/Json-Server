@@ -1,16 +1,128 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
+  "posts":  { "id": 1, "title": "json-server", "author": "typicode" },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "data":[
     {
-      "id":1,
-      "name":"nargiz",
-      "title":"lorem ipsu dolor",
-      "body":"commit"
+      "id": "1",
+      "title": "Purple Leaf",
+      "category": "Music",
+      "price": "1.00 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/2.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/3.jpg",
+      "desc": "@Yassirart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "2",
+      "title": "Women Portrait",
+      "category": "Art",
+      "price": "3.09 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/3.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/4.jpg",
+      "desc": "@studioart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "3",
+      "title": "Colorful Leaf",
+      "category": "Art",
+      "price": "5.07 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/6.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/7.jpg",
+      "desc": "@dreamart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "4",
+      "title": "Multicolor Illustration",
+      "category": "Music",
+      "price": "2.47 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/11.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/8.jpg",
+      "desc": "@Simayart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "5",
+      "title": "3D Illustration",
+      "category": "Sport",
+      "price": "4.07 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/13.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/2.jpg",
+      "desc": "@Sinanart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "6",
+      "title": "Berries Art",
+      "category": "Video",
+      "price": "2.04 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/4.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/1.jpg",
+      "desc": "@Yomnaart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "7",
+      "title": "Render Art",
+      "category": "Sport",
+      "price": "2.12 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/1.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/4.jpg",
+      "desc": "@studioart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "8",
+      "title": "Digital Art",
+      "category": "Game",
+      "price": "4.47 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/14.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/14.jpg",
+      "desc": "@Leilaart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "9",
+      "title": "3D Model",
+      "category": "Game",
+      "price": "7.12 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/5.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/6.jpg",
+      "desc": "@Yaraartist",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "10",
+      "title": "Colorful Paint",
+      "category": "Sport",
+      "price": "4.07 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/7.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/14.jpg",
+      "desc": "@Leilaart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "11",
+      "title": "Creative Model",
+      "category": "Sport",
+      "price": "4.47 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/9.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/2.jpg",
+      "desc": "@Sinanart",
+      "body":"How to Create Your 1st Crypto NFTs"
+    },
+    {
+      "id": "12",
+      "title": "Spiral Illustration",
+      "category": "Game",
+      "price": "5.46 ETH",
+      "img": "https://metanft.hasnaanajmi.org/images/bid/10.jpg",
+      "user":"https://metanft.hasnaanajmi.org/images/avatars/3.jpg",
+      "desc": "@Yassirart",
+      "body":"How to Create Your 1st Crypto NFTs"
     }
   ],
   "profile": { "name": "typicode" }
