@@ -5,5 +5,13 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
+  "data":[
+    {
+      "id":1,
+      "name":"nargiz",
+      "title":"lorem ipsu dolor",
+      "body":"commit"
+    }
+  ],
   "profile": { "name": "typicode" }
-}
+}s
