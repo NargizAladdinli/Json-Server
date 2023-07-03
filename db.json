@@ -367,7 +367,7 @@
       "id":1,
       "name":"Iqbal",
       "age":"23",
-      "content":"<p>Meherremli</p>"
+      "content":"<p style=\"color:red\">Meherremli</p>"
     },
     {
       "id":2,
