@@ -440,5 +440,27 @@
       "question":"How can i cancel or change my order?",
       "answer":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     }
+  ],
+  "faqhomeq":[
+    {
+      "id":1,
+      "questions":"How to buy a product?",
+      "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id a enim, consectetur cursus. At mattis nulla in pretium. Condimentum sagittis mauris augue maecenas fusce commodo neque purus et. Integer eu amet at pretium id ultrices faucibus. In vestibulum pretium, potenti molestie."
+    },
+    {
+      "id":2,
+      "questions":"How can I make refund from your website?",
+      "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id a enim, consectetur cursus. At mattis nulla in pretium. Condimentum sagittis mauris augue maecenas fusce commodo neque purus et. Integer eu amet at pretium id ultrices faucibus. In vestibulum pretium, potenti molestie."
+    },
+    {
+      "id":3,
+      "questions":"How to buy a product?",
+      "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id a enim, consectetur cursus. At mattis nulla in pretium. Condimentum sagittis mauris augue maecenas fusce commodo neque purus et. Integer eu amet at pretium id ultrices faucibus. In vestibulum pretium, potenti molestie."
+    },
+    {
+      "id":4,
+      "questions":"How can I make refund from your website?",
+      "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id a enim, consectetur cursus. At mattis nulla in pretium. Condimentum sagittis mauris augue maecenas fusce commodo neque purus et. Integer eu amet at pretium id ultrices faucibus. In vestibulum pretium, potenti molestie."
+    }
   ]
 }
