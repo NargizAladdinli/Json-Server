@@ -520,5 +520,52 @@
       "title": "Nec feugiat in fermentum",
       "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>\r\n<img alt=\"fashion\" src=\"https://s3-alpha-sig.figma.com/img/b7de/edea/77b7f535d9e612efad9e5819e0c1a7c0?Expires=1702252800&Signature=WRD2F4blZI6UWRNjmIaudCReJe1w6CmInZkrrq6QparOOVWGKtSwV7WloLL-52xUgC7O0YAvgQGVncyFF8xheGDHlUC2iA1HuVq7KO7UbsUTW9MW7BqvbirnJfWmVqhA5e2w4VAigJNfBG4Z352pAQmmaV7cDiU15BG9f0NN9jjx-H2KpgAqP9miIRhQWQW8QIE5XnO-9T6cVoNRdhn6Nr4voU2MtsqTfU-spPU1l0AdBe6BMDSHmTs~b2H6fzynTBG2lDInpuIw1rKmJ0MlA9hbcoSYz0CdTP41XS-rKDFlp~-DHPULBrqCdWxLT0RPdznyIFKu99PgPgUBZgIcYw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4\" style=\"height:auto; width:500px; object-fit:cover;\"/><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>\r\n<img alt=\"fashion\" src=\"https://s3-alpha-sig.figma.com/img/b7de/edea/77b7f535d9e612efad9e5819e0c1a7c0?Expires=1702252800&Signature=WRD2F4blZI6UWRNjmIaudCReJe1w6CmInZkrrq6QparOOVWGKtSwV7WloLL-52xUgC7O0YAvgQGVncyFF8xheGDHlUC2iA1HuVq7KO7UbsUTW9MW7BqvbirnJfWmVqhA5e2w4VAigJNfBG4Z352pAQmmaV7cDiU15BG9f0NN9jjx-H2KpgAqP9miIRhQWQW8QIE5XnO-9T6cVoNRdhn6Nr4voU2MtsqTfU-spPU1l0AdBe6BMDSHmTs~b2H6fzynTBG2lDInpuIw1rKmJ0MlA9hbcoSYz0CdTP41XS-rKDFlp~-DHPULBrqCdWxLT0RPdznyIFKu99PgPgUBZgIcYw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4\" style=\"height:auto; width:500px; object-fit:cover;\"/><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>"
     }
+  ],
+  "categories":[
+    {
+      "id":1,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":2,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":3,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":4,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":5,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":6,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":7,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":8,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":9,
+      "title":"Mebellər üçün məhsullar",
+      "img":"https://images.unsplash.com/photo-1563770660941-20978e870e26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
   ]
 }
