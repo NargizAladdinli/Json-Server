@@ -636,5 +636,105 @@
       "title":"Tell us about your event",
       "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt"
     }
+  ],
+  "medicines":[
+    {
+      "id":1,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":2,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":3,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":4,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":5,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":6,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":7,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":8,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":9,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":10,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":11,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":12,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":13,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    },
+    {
+      "id":14,
+      "title":"Aksenfort",
+      "content":"Tabletka",
+      "qramm": "550qr",
+      "price": "5azn"
+    }
   ]
 }
